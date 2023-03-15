@@ -8,8 +8,11 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff" />&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff" />&nbsp;
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=fff" />&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=fff" />&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=fff" />&nbsp;
+
+
+---
 
 ### 🛠 Tools:
 
@@ -19,6 +22,17 @@
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 
+--- 
 
 ### ⚙️ GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=NextForever&theme=dark) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NextForever&show_icons=true&theme=radical)
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NextForever&theme=algolia" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NextForever&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
