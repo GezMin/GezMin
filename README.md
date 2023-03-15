@@ -33,10 +33,13 @@
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NextForever&theme=algolia&layout=compact" />
-    </td>
-     <td>
-     <img height="195px" align="right" alt="stats" src="https://github-readme-stats.vercel.app/api?username=NextForever&show_icons=true&theme=radical" />
-    </td>
+    </td>   
   </tr>
+  <tr>
+      <td>
+     <img height="195px" align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=NextForever&show_icons=true&theme=algolia" />
+    </td>
+
+  </tr>  
 </table>
  
