@@ -23,7 +23,7 @@
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 
 --- 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NextForever&show_icons=true&theme=radical)
 ### ⚙️ GitHub Analytics
 
 <table>
@@ -36,3 +36,4 @@
     </td>
   </tr>
 </table>
+ 
