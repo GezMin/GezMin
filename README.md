@@ -21,4 +21,4 @@
 
 
 ### ⚙️ GitHub Analytics
-(https://github-readme-streak-stats.herokuapp.com?user=NextForever&theme=dark) (https://github-readme-stats.vercel.app/api?username=NextForever&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=NextForever&theme=dark) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NextForever&show_icons=true&theme=radical)
