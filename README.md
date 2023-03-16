@@ -48,5 +48,4 @@ Material Ui
 
   </tr>  
 </table>
- 
- [![codewars](https://www.codewars.com/users/GezMin/badges/large)](https://www.codewars.com/users/GezMin)
+
