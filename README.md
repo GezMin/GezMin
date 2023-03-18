@@ -14,9 +14,6 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=fff" />&nbsp;
 <img src="https://img.shields.io/badge/Material Ui-007FFF?style=for-the-badge&logo=MUI&logoColor=fff" />&nbsp;
 
-
-Material Ui
-
 ---
 
 ### 🛠 Tools:
