@@ -31,15 +31,15 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NextForever&theme=algolia" alt="webDev's Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GezMin&theme=algolia" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NextForever&theme=algolia&layout=compact" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GezMin&theme=algolia&layout=compact" />
     </td>   
   </tr>
   <tr>
       <td>
-     <img height="195px" align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=NextForever&show_icons=true&theme=algolia" />
+     <img height="195px" align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=GezMin&show_icons=true&theme=algolia" />
     </td>
 
   </tr>  
