@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=fff" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000" />&nbsp;
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFF" />&nbsp;
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux Toolkit&logoColor=FFF" />&nbsp;
 <img src="https://img.shields.io/badge/NEXT.JS-000?style=for-the-badge&logo=Next.js&logoColor=ffffff" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=fff" />&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff" />&nbsp;
