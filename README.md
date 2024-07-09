@@ -47,3 +47,5 @@
 </table>
 
  [![codewars](https://www.codewars.com/users/GezMin/badges/large)](https://www.codewars.com/users/GezMin)
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
