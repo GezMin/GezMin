@@ -11,7 +11,7 @@
 <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=fff" />&nbsp; -->
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />&nbsp;
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000" />&nbsp;
- <img src="https://img.shields.io/badge/NestJs-#E0234E?style=for-the-badge&logo=nestjs&logoColor=000" />&nbsp; 
+<!-- <img src="https://img.shields.io/badge/NestJs-#E0234E?style=for-the-badge&logo=nestjs&logoColor=000" />&nbsp; -->
 
 ---
 
