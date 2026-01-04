@@ -8,10 +8,10 @@
 <br>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=fff" />&nbsp;
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&logoColor=fff" />&nbsp;
-<!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=fff" />&nbsp; -->
+
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />&nbsp;
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000" />&nbsp;
-<!-- <img src="https://img.shields.io/badge/NestJs-#E0234E?style=for-the-badge&logo=nestjs&logoColor=000" />&nbsp; -->
+<img src="https://img.shields.io/badge/NestJs-#E0234E?style=for-the-badge&logo=nestjs&logoColor=000" />&nbsp; 
 
 ---
 
@@ -21,8 +21,6 @@
 <img alt="Docker" src="https://img.shields.io/badge/docker-007ACC.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=fff" />&nbsp;
-<img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 
 
 --- 
